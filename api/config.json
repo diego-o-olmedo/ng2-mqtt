@@ -1,0 +1,18 @@
+{
+    "host": "m16.cloudmqtt.com",
+    "port": 35162,
+    "path": "",
+    "ssl": true,
+
+    "user": "trfrmxzs",
+    "pass": "pymoERc5dJEI",
+
+    "subscribe": [
+        "Test"
+    ],
+    "publish": [
+        "Test"
+    ],
+
+    "keepalive": 10
+}
